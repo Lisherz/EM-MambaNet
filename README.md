@@ -1,5 +1,8 @@
 EM-MambaNet
 
+![24](https://github.com/user-attachments/assets/0aaacfa6-0352-4632-b006-f350823cf2a1)
+
+
 🧠 Introduction
 
 An edge-guided enhanced change detection network, termed Edge-injected and Modulation-guided Mamba Network (EM-MambaNet), is proposed to further improve detection accuracy and alleviate the problems of blurred detail changes and missed detections in weak boundary change regions. The network designs an enhancement mechanism that jointly employs an edge injection module and an edge modulation module. The former explicitly introduces edge structural priors into the shallow layers of the encoder to strengthen the perception of object contours. The latter utilizes stable edge information extracted from SAR features to perform adaptive spatial enhancement on the optical branch, thereby enabling precise localization and accurate segmentation of change regions.
