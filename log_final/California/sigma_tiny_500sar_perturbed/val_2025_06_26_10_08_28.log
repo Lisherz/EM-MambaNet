@@ -1,0 +1,400 @@
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-5.pth
+1 background	95.573%
+2 change	2.520%
+----------     mean_IoU	49.046%	precision	41.322%	recall  	2.613%	freq_IoU	91.503%	mean_pixel_acc	51.222%	pixel_acc	95.578%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-10.pth
+1 background	95.717%
+2 change	4.743%
+----------     mean_IoU	50.230%	precision	65.333%	recall  	4.865%	freq_IoU	91.738%	mean_pixel_acc	52.374%	pixel_acc	95.726%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-15.pth
+1 background	95.847%
+2 change	12.426%
+----------     mean_IoU	54.137%	precision	63.222%	recall  	13.394%	freq_IoU	92.198%	mean_pixel_acc	56.519%	pixel_acc	95.871%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-20.pth
+1 background	95.648%
+2 change	0.606%
+----------     mean_IoU	48.127%	precision	89.231%	recall  	0.606%	freq_IoU	91.492%	mean_pixel_acc	50.301%	pixel_acc	95.650%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-25.pth
+1 background	95.808%
+2 change	18.858%
+----------     mean_IoU	57.333%	precision	56.514%	recall  	22.059%	freq_IoU	92.443%	mean_pixel_acc	60.641%	pixel_acc	95.849%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-30.pth
+1 background	95.792%
+2 change	22.898%
+----------     mean_IoU	59.345%	precision	54.833%	recall  	28.221%	freq_IoU	92.604%	mean_pixel_acc	63.579%	pixel_acc	95.844%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-35.pth
+1 background	96.069%
+2 change	14.964%
+----------     mean_IoU	55.516%	precision	75.928%	recall  	15.709%	freq_IoU	92.521%	mean_pixel_acc	57.741%	pixel_acc	96.096%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-40.pth
+1 background	95.135%
+2 change	27.385%
+----------     mean_IoU	61.260%	precision	44.958%	recall  	41.197%	freq_IoU	92.171%	mean_pixel_acc	69.445%	pixel_acc	95.222%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-45.pth
+1 background	95.882%
+2 change	23.460%
+----------     mean_IoU	59.671%	precision	57.028%	recall  	28.498%	freq_IoU	92.715%	mean_pixel_acc	63.758%	pixel_acc	95.933%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-50.pth
+1 background	95.500%
+2 change	27.918%
+----------     mean_IoU	61.709%	precision	49.296%	recall  	39.164%	freq_IoU	92.544%	mean_pixel_acc	68.661%	pixel_acc	95.577%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-55.pth
+1 background	96.279%
+2 change	21.709%
+----------     mean_IoU	58.994%	precision	75.550%	recall  	23.350%	freq_IoU	93.018%	mean_pixel_acc	61.502%	pixel_acc	96.317%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-60.pth
+1 background	96.278%
+2 change	22.495%
+----------     mean_IoU	59.386%	precision	73.894%	recall  	24.437%	freq_IoU	93.051%	mean_pixel_acc	62.021%	pixel_acc	96.317%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-65.pth
+1 background	96.152%
+2 change	28.645%
+----------     mean_IoU	62.398%	precision	61.890%	recall  	34.779%	freq_IoU	93.200%	mean_pixel_acc	66.900%	pixel_acc	96.211%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-70.pth
+1 background	96.180%
+2 change	29.720%
+----------     mean_IoU	62.950%	precision	61.976%	recall  	36.347%	freq_IoU	93.273%	mean_pixel_acc	67.664%	pixel_acc	96.241%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-75.pth
+1 background	95.491%
+2 change	32.042%
+----------     mean_IoU	63.767%	precision	49.511%	recall  	47.593%	freq_IoU	92.716%	mean_pixel_acc	72.687%	pixel_acc	95.585%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-80.pth
+1 background	95.872%
+2 change	32.848%
+----------     mean_IoU	64.360%	precision	54.511%	recall  	45.252%	freq_IoU	93.116%	mean_pixel_acc	71.762%	pixel_acc	95.954%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-85.pth
+1 background	96.548%
+2 change	35.636%
+----------     mean_IoU	66.092%	precision	67.829%	recall  	42.885%	freq_IoU	93.884%	mean_pixel_acc	70.977%	pixel_acc	96.612%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-90.pth
+1 background	96.408%
+2 change	27.320%
+----------     mean_IoU	61.864%	precision	72.590%	recall  	30.463%	freq_IoU	93.386%	mean_pixel_acc	64.968%	pixel_acc	96.456%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-95.pth
+1 background	95.955%
+2 change	38.121%
+----------     mean_IoU	67.038%	precision	54.810%	recall  	55.594%	freq_IoU	93.425%	mean_pixel_acc	76.749%	pixel_acc	96.053%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-100.pth
+1 background	96.603%
+2 change	35.467%
+----------     mean_IoU	66.035%	precision	69.782%	recall  	41.902%	freq_IoU	93.929%	mean_pixel_acc	70.536%	pixel_acc	96.665%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-105.pth
+1 background	96.696%
+2 change	36.104%
+----------     mean_IoU	66.400%	precision	72.276%	recall  	41.907%	freq_IoU	94.045%	mean_pixel_acc	70.586%	pixel_acc	96.756%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-110.pth
+1 background	96.566%
+2 change	39.939%
+----------     mean_IoU	68.253%	precision	64.732%	recall  	51.048%	freq_IoU	94.089%	mean_pixel_acc	74.888%	pixel_acc	96.643%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-115.pth
+1 background	96.841%
+2 change	36.872%
+----------     mean_IoU	66.857%	precision	77.049%	recall  	41.421%	freq_IoU	94.218%	mean_pixel_acc	70.429%	pixel_acc	96.898%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-120.pth
+1 background	96.716%
+2 change	36.964%
+----------     mean_IoU	66.840%	precision	71.922%	recall  	43.198%	freq_IoU	94.103%	mean_pixel_acc	71.213%	pixel_acc	96.778%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-125.pth
+1 background	96.748%
+2 change	40.863%
+----------     mean_IoU	68.805%	precision	68.630%	recall  	50.248%	freq_IoU	94.304%	mean_pixel_acc	74.599%	pixel_acc	96.819%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-130.pth
+1 background	96.862%
+2 change	41.243%
+----------     mean_IoU	69.053%	precision	71.671%	recall  	49.276%	freq_IoU	94.429%	mean_pixel_acc	74.193%	pixel_acc	96.930%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-135.pth
+1 background	96.734%
+2 change	43.785%
+----------     mean_IoU	70.259%	precision	65.762%	recall  	56.713%	freq_IoU	94.418%	mean_pixel_acc	77.681%	pixel_acc	96.815%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-140.pth
+1 background	96.799%
+2 change	42.586%
+----------     mean_IoU	69.693%	precision	68.381%	recall  	53.028%	freq_IoU	94.428%	mean_pixel_acc	75.953%	pixel_acc	96.873%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-145.pth
+1 background	97.069%
+2 change	42.519%
+----------     mean_IoU	69.794%	precision	77.470%	recall  	48.518%	freq_IoU	94.683%	mean_pixel_acc	73.937%	pixel_acc	97.131%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-150.pth
+1 background	96.949%
+2 change	43.093%
+----------     mean_IoU	70.021%	precision	72.264%	recall  	51.633%	freq_IoU	94.593%	mean_pixel_acc	75.363%	pixel_acc	97.018%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-155.pth
+1 background	97.001%
+2 change	39.743%
+----------     mean_IoU	68.372%	precision	79.286%	recall  	44.348%	freq_IoU	94.497%	mean_pixel_acc	71.909%	pixel_acc	97.059%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-160.pth
+1 background	96.930%
+2 change	42.874%
+----------     mean_IoU	69.902%	precision	71.933%	recall  	51.487%	freq_IoU	94.566%	mean_pixel_acc	75.284%	pixel_acc	97.000%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-165.pth
+1 background	97.075%
+2 change	45.660%
+----------     mean_IoU	71.368%	precision	73.170%	recall  	54.842%	freq_IoU	94.826%	mean_pixel_acc	76.961%	pixel_acc	97.145%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-170.pth
+1 background	97.014%
+2 change	46.399%
+----------     mean_IoU	71.707%	precision	70.457%	recall  	57.606%	freq_IoU	94.800%	mean_pixel_acc	78.251%	pixel_acc	97.089%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-175.pth
+1 background	97.108%
+2 change	47.514%
+----------     mean_IoU	72.311%	precision	71.917%	recall  	58.338%	freq_IoU	94.939%	mean_pixel_acc	78.648%	pixel_acc	97.181%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-180.pth
+1 background	97.121%
+2 change	41.589%
+----------     mean_IoU	69.355%	precision	81.478%	recall  	45.932%	freq_IoU	94.692%	mean_pixel_acc	72.727%	pixel_acc	97.179%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-185.pth
+1 background	96.973%
+2 change	47.940%
+----------     mean_IoU	72.456%	precision	67.872%	recall  	62.012%	freq_IoU	94.828%	mean_pixel_acc	80.335%	pixel_acc	97.055%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-190.pth
+1 background	96.793%
+2 change	47.376%
+----------     mean_IoU	72.084%	precision	64.436%	recall  	64.149%	freq_IoU	94.632%	mean_pixel_acc	81.265%	pixel_acc	96.883%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-195.pth
+1 background	97.199%
+2 change	47.485%
+----------     mean_IoU	72.342%	precision	74.879%	recall  	56.483%	freq_IoU	95.024%	mean_pixel_acc	77.808%	pixel_acc	97.268%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-200.pth
+1 background	97.050%
+2 change	48.807%
+----------     mean_IoU	72.929%	precision	68.958%	recall  	62.550%	freq_IoU	94.940%	mean_pixel_acc	80.631%	pixel_acc	97.131%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-205.pth
+1 background	97.247%
+2 change	48.969%
+----------     mean_IoU	73.108%	precision	74.476%	recall  	58.845%	freq_IoU	95.136%	mean_pixel_acc	78.961%	pixel_acc	97.318%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-210.pth
+1 background	97.297%
+2 change	50.595%
+----------     mean_IoU	73.946%	precision	73.927%	recall  	61.583%	freq_IoU	95.254%	mean_pixel_acc	80.295%	pixel_acc	97.370%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-215.pth
+1 background	97.322%
+2 change	50.643%
+----------     mean_IoU	73.982%	precision	74.667%	recall  	61.150%	freq_IoU	95.280%	mean_pixel_acc	80.100%	pixel_acc	97.393%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-220.pth
+1 background	97.410%
+2 change	49.900%
+----------     mean_IoU	73.655%	precision	79.056%	recall  	57.502%	freq_IoU	95.332%	mean_pixel_acc	78.403%	pixel_acc	97.475%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-225.pth
+1 background	97.172%
+2 change	51.668%
+----------     mean_IoU	74.420%	precision	69.213%	recall  	67.086%	freq_IoU	95.182%	mean_pixel_acc	82.861%	pixel_acc	97.255%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-230.pth
+1 background	97.285%
+2 change	51.177%
+----------     mean_IoU	74.231%	precision	72.799%	recall  	63.277%	freq_IoU	95.268%	mean_pixel_acc	81.098%	pixel_acc	97.360%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-235.pth
+1 background	97.368%
+2 change	52.353%
+----------     mean_IoU	74.860%	precision	73.866%	recall  	64.254%	freq_IoU	95.399%	mean_pixel_acc	81.607%	pixel_acc	97.442%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-240.pth
+1 background	97.436%
+2 change	50.772%
+----------     mean_IoU	74.104%	precision	78.607%	recall  	58.913%	freq_IoU	95.395%	mean_pixel_acc	79.090%	pixel_acc	97.502%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-245.pth
+1 background	97.460%
+2 change	50.214%
+----------     mean_IoU	73.837%	precision	80.614%	recall  	57.110%	freq_IoU	95.394%	mean_pixel_acc	78.241%	pixel_acc	97.523%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-250.pth
+1 background	97.293%
+2 change	50.666%
+----------     mean_IoU	73.979%	precision	73.705%	recall  	61.845%	freq_IoU	95.254%	mean_pixel_acc	80.418%	pixel_acc	97.366%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-255.pth
+1 background	97.398%
+2 change	53.026%
+----------     mean_IoU	75.212%	precision	73.898%	recall  	65.247%	freq_IoU	95.457%	mean_pixel_acc	82.096%	pixel_acc	97.472%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-260.pth
+1 background	97.423%
+2 change	53.198%
+----------     mean_IoU	75.310%	precision	74.463%	recall  	65.069%	freq_IoU	95.489%	mean_pixel_acc	82.024%	pixel_acc	97.496%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-265.pth
+1 background	97.474%
+2 change	51.610%
+----------     mean_IoU	74.542%	precision	78.708%	recall  	59.984%	freq_IoU	95.468%	mean_pixel_acc	79.621%	pixel_acc	97.540%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-270.pth
+1 background	97.370%
+2 change	53.408%
+----------     mean_IoU	75.389%	precision	72.566%	recall  	66.919%	freq_IoU	95.447%	mean_pixel_acc	82.881%	pixel_acc	97.447%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-275.pth
+1 background	97.499%
+2 change	51.870%
+----------     mean_IoU	74.684%	precision	79.260%	recall  	60.016%	freq_IoU	95.503%	mean_pixel_acc	79.649%	pixel_acc	97.564%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-280.pth
+1 background	97.500%
+2 change	54.152%
+----------     mean_IoU	75.826%	precision	75.666%	recall  	65.571%	freq_IoU	95.604%	mean_pixel_acc	82.303%	pixel_acc	97.572%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-285.pth
+1 background	97.581%
+2 change	54.295%
+----------     mean_IoU	75.938%	precision	78.353%	recall  	63.878%	freq_IoU	95.687%	mean_pixel_acc	81.535%	pixel_acc	97.648%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-290.pth
+1 background	97.483%
+2 change	54.031%
+----------     mean_IoU	75.757%	precision	75.251%	recall  	65.707%	freq_IoU	95.582%	mean_pixel_acc	82.359%	pixel_acc	97.555%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-295.pth
+1 background	97.584%
+2 change	53.912%
+----------     mean_IoU	75.748%	precision	79.138%	recall  	62.843%	freq_IoU	95.674%	mean_pixel_acc	81.043%	pixel_acc	97.650%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-300.pth
+1 background	97.607%
+2 change	53.109%
+----------     mean_IoU	75.358%	precision	81.591%	recall  	60.340%	freq_IoU	95.661%	mean_pixel_acc	79.859%	pixel_acc	97.670%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-305.pth
+1 background	97.584%
+2 change	54.382%
+----------     mean_IoU	75.983%	precision	78.328%	recall  	64.014%	freq_IoU	95.694%	mean_pixel_acc	81.602%	pixel_acc	97.651%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-310.pth
+1 background	97.563%
+2 change	53.391%
+----------     mean_IoU	75.477%	precision	79.212%	recall  	62.090%	freq_IoU	95.631%	mean_pixel_acc	80.673%	pixel_acc	97.629%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-315.pth
+1 background	97.625%
+2 change	56.636%
+----------     mean_IoU	77.131%	precision	76.241%	recall  	68.774%	freq_IoU	95.833%	mean_pixel_acc	83.897%	pixel_acc	97.697%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-320.pth
+1 background	97.535%
+2 change	55.067%
+----------     mean_IoU	76.301%	precision	75.497%	recall  	67.050%	freq_IoU	95.677%	mean_pixel_acc	83.027%	pixel_acc	97.607%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-325.pth
+1 background	97.627%
+2 change	54.826%
+----------     mean_IoU	76.226%	precision	79.269%	recall  	64.003%	freq_IoU	95.755%	mean_pixel_acc	81.619%	pixel_acc	97.693%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-330.pth
+1 background	97.680%
+2 change	55.602%
+----------     mean_IoU	76.641%	precision	80.041%	recall  	64.552%	freq_IoU	95.840%	mean_pixel_acc	81.908%	pixel_acc	97.746%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-335.pth
+1 background	97.612%
+2 change	56.343%
+----------     mean_IoU	76.978%	precision	76.231%	recall  	68.351%	freq_IoU	95.807%	mean_pixel_acc	83.688%	pixel_acc	97.684%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-340.pth
+1 background	97.592%
+2 change	56.564%
+----------     mean_IoU	77.078%	precision	75.228%	recall  	69.511%	freq_IoU	95.798%	mean_pixel_acc	84.232%	pixel_acc	97.665%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-345.pth
+1 background	97.637%
+2 change	55.335%
+----------     mean_IoU	76.486%	precision	78.757%	recall  	65.043%	freq_IoU	95.786%	mean_pixel_acc	82.120%	pixel_acc	97.704%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-350.pth
+1 background	97.660%
+2 change	56.884%
+----------     mean_IoU	77.272%	precision	77.071%	recall  	68.471%	freq_IoU	95.877%	mean_pixel_acc	83.770%	pixel_acc	97.730%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-355.pth
+1 background	97.672%
+2 change	56.765%
+----------     mean_IoU	77.218%	precision	77.693%	recall  	67.818%	freq_IoU	95.883%	mean_pixel_acc	83.464%	pixel_acc	97.741%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-360.pth
+1 background	97.712%
+2 change	57.371%
+----------     mean_IoU	77.541%	precision	78.172%	recall  	68.315%	freq_IoU	95.947%	mean_pixel_acc	83.721%	pixel_acc	97.780%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-365.pth
+1 background	97.705%
+2 change	57.250%
+----------     mean_IoU	77.478%	precision	78.132%	recall  	68.174%	freq_IoU	95.936%	mean_pixel_acc	83.650%	pixel_acc	97.773%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-370.pth
+1 background	97.676%
+2 change	56.173%
+----------     mean_IoU	76.925%	precision	78.840%	recall  	66.146%	freq_IoU	95.860%	mean_pixel_acc	82.667%	pixel_acc	97.743%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-375.pth
+1 background	97.685%
+2 change	57.797%
+----------     mean_IoU	77.741%	precision	76.506%	recall  	70.269%	freq_IoU	95.940%	mean_pixel_acc	84.641%	pixel_acc	97.756%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-380.pth
+1 background	97.723%
+2 change	57.267%
+----------     mean_IoU	77.495%	precision	78.792%	recall  	67.703%	freq_IoU	95.954%	mean_pixel_acc	83.435%	pixel_acc	97.790%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-385.pth
+1 background	97.792%
+2 change	57.965%
+----------     mean_IoU	77.878%	precision	80.309%	recall  	67.567%	freq_IoU	96.050%	mean_pixel_acc	83.405%	pixel_acc	97.857%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-390.pth
+1 background	97.749%
+2 change	57.560%
+----------     mean_IoU	77.655%	precision	79.318%	recall  	67.724%	freq_IoU	95.992%	mean_pixel_acc	83.458%	pixel_acc	97.816%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-395.pth
+1 background	97.728%
+2 change	57.288%
+----------     mean_IoU	77.508%	precision	78.973%	recall  	67.599%	freq_IoU	95.960%	mean_pixel_acc	83.388%	pixel_acc	97.796%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-400.pth
+1 background	97.689%
+2 change	55.372%
+----------     mean_IoU	76.531%	precision	80.857%	recall  	63.726%	freq_IoU	95.838%	mean_pixel_acc	81.518%	pixel_acc	97.754%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-405.pth
+1 background	97.726%
+2 change	57.923%
+----------     mean_IoU	77.824%	precision	77.807%	recall  	69.386%	freq_IoU	95.986%	mean_pixel_acc	84.240%	pixel_acc	97.795%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-410.pth
+1 background	97.788%
+2 change	58.310%
+----------     mean_IoU	78.049%	precision	79.501%	recall  	68.628%	freq_IoU	96.061%	mean_pixel_acc	83.909%	pixel_acc	97.854%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-415.pth
+1 background	97.796%
+2 change	58.230%
+----------     mean_IoU	78.013%	precision	79.984%	recall  	68.163%	freq_IoU	96.065%	mean_pixel_acc	83.691%	pixel_acc	97.861%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-420.pth
+1 background	97.722%
+2 change	57.855%
+----------     mean_IoU	77.788%	precision	77.737%	recall  	69.344%	freq_IoU	95.978%	mean_pixel_acc	84.218%	pixel_acc	97.791%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-425.pth
+1 background	97.811%
+2 change	59.126%
+----------     mean_IoU	78.468%	precision	78.970%	recall  	70.175%	freq_IoU	96.119%	mean_pixel_acc	84.660%	pixel_acc	97.878%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-430.pth
+1 background	97.759%
+2 change	58.921%
+----------     mean_IoU	78.340%	precision	77.353%	recall  	71.205%	freq_IoU	96.060%	mean_pixel_acc	85.126%	pixel_acc	97.829%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-435.pth
+1 background	97.785%
+2 change	59.254%
+----------     mean_IoU	78.519%	precision	77.740%	recall  	71.361%	freq_IoU	96.099%	mean_pixel_acc	85.213%	pixel_acc	97.854%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-440.pth
+1 background	97.814%
+2 change	59.542%
+----------     mean_IoU	78.678%	precision	78.343%	recall  	71.273%	freq_IoU	96.140%	mean_pixel_acc	85.186%	pixel_acc	97.882%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-445.pth
+1 background	97.783%
+2 change	59.669%
+----------     mean_IoU	78.726%	precision	76.983%	recall  	72.626%	freq_IoU	96.116%	mean_pixel_acc	85.816%	pixel_acc	97.853%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-450.pth
+1 background	97.832%
+2 change	59.317%
+----------     mean_IoU	78.574%	precision	79.465%	recall  	70.055%	freq_IoU	96.148%	mean_pixel_acc	84.613%	pixel_acc	97.899%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-455.pth
+1 background	97.855%
+2 change	59.868%
+----------     mean_IoU	78.861%	precision	79.395%	recall  	70.881%	freq_IoU	96.194%	mean_pixel_acc	85.020%	pixel_acc	97.922%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-460.pth
+1 background	97.882%
+2 change	60.037%
+----------     mean_IoU	78.960%	precision	80.154%	recall  	70.520%	freq_IoU	96.226%	mean_pixel_acc	84.861%	pixel_acc	97.947%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-465.pth
+1 background	97.846%
+2 change	59.807%
+----------     mean_IoU	78.827%	precision	79.132%	recall  	71.006%	freq_IoU	96.182%	mean_pixel_acc	85.075%	pixel_acc	97.913%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-470.pth
+1 background	97.828%
+2 change	59.315%
+----------     mean_IoU	78.572%	precision	79.322%	recall  	70.165%	freq_IoU	96.144%	mean_pixel_acc	84.664%	pixel_acc	97.895%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-475.pth
+1 background	97.855%
+2 change	59.813%
+----------     mean_IoU	78.834%	precision	79.482%	recall  	70.734%	freq_IoU	96.191%	mean_pixel_acc	84.950%	pixel_acc	97.921%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-480.pth
+1 background	97.858%
+2 change	60.085%
+----------     mean_IoU	78.972%	precision	79.120%	recall  	71.408%	freq_IoU	96.206%	mean_pixel_acc	85.273%	pixel_acc	97.925%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-485.pth
+1 background	97.901%
+2 change	60.438%
+----------     mean_IoU	79.170%	precision	80.188%	recall  	71.048%	freq_IoU	96.262%	mean_pixel_acc	85.122%	pixel_acc	97.966%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-490.pth
+1 background	97.882%
+2 change	60.025%
+----------     mean_IoU	78.953%	precision	80.180%	recall  	70.483%	freq_IoU	96.226%	mean_pixel_acc	84.843%	pixel_acc	97.947%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-495.pth
+1 background	97.881%
+2 change	60.395%
+----------     mean_IoU	79.138%	precision	79.444%	recall  	71.581%	freq_IoU	96.241%	mean_pixel_acc	85.367%	pixel_acc	97.947%
+Model: /mnt/newdisk/zyy/code/gai_mcd/log_final/California/sigma_tiny_500sar_perturbed/checkpoint/epoch-500.pth
+1 background	97.891%
+2 change	60.281%
+----------     mean_IoU	79.086%	precision	80.090%	recall  	70.907%	freq_IoU	96.246%	mean_pixel_acc	85.050%	pixel_acc	97.957%
